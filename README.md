@@ -1,4 +1,4 @@
-# mongodb-x
+# mongodb-pro
 A wrapper that encapsulates MongoDB Node.js driver, mongo-xcollection and other useful features.
 
 ## Example
