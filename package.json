@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-plus",
+  "version": "0.0.1",
+  "description": "A wrapper that encapsulates MongoDB Node.js driver, mongo-xcollection and other useful features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOALVO/mongodb-plus.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Gustavo Gondim",
+    "email": "gustavo@midianoalvo.com.br"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NOALVO/mongodb-plus/issues"
+  },
+  "homepage": "https://github.com/NOALVO/mongodb-plus#readme",
+  "dependencies": {
+    "mongodb": "~3.5.2",
+    "mongodb-xcollection": "~0.0.2"
+  }
+}
