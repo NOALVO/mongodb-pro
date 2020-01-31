@@ -1,6 +1,6 @@
 {
   "name": "mongodb-pro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A wrapper that encapsulates MongoDB Node.js driver, mongo-xcollection and other useful features.",
   "main": "index.js",
   "scripts": {
